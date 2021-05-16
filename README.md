@@ -1,8 +1,7 @@
 # Cole Malphrus' Resume
-
 ## Data Science Skills
 - Python
-- - Jupyter
+    - Jupyter
 
 ## Engineering Skills
 
