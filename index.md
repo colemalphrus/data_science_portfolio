@@ -55,7 +55,33 @@ used primarily for data retreival. Postgresql, Mysql, Sql Server, and Oracle DB.
 
 ## Business Skills
 
+### International Business(5+ years)
+Have Operated in ...
+- United States
+- Central America
+- South America
+- Carribean 
+
+### Financial Analysis(8+ years)
+Have worked on ...
+- Real estate growth anyalysis
+- Market feasablility studies
+- Risk / Retrun anyalysis 
+
+### E-Commerce Managment(8+ years)
+Have Managed ...
+- Digital payment processing
+- Supply chain managment
+- Inventory managment
+
 ## Work Experience
+
+### Malphrus Web Services(10/18 - Present):
+#### Owner and Technical Lead
+- Lead development of business intelegince tools, web and mobile applications.
+- Notable clients included an art decor firm which processed up to 8000 sales per week
+- Managed server deployment, database maitnence and site reliability systems 
+
 
 ## Education
 
