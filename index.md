@@ -22,6 +22,26 @@ for in depth anylasis. Normal use is liited to research feilds.
 
 ## Engineering Skills
 
+### Web App Development(4+ years)
+Have Created ...
+- Enterprize level E-commerce platforms
+- Inventory and suply chain managment systems 
+- Internal tools for cross department collaberation and comunication
+- Business intelegence dashboards
+- Automation of client comunication and managment
+
+### Mobile App Development(2+ years)
+Have Created ...
+- Company pressence on IOS and Android
+- Field tools for staff and distributed teams
+- Client facing information and comunication Applications
+
+### Server managment and maintenece(4+ years)
+Have Managed ...
+- Client and company data in a secure but accsesable way
+- Web servers
+- Background business monitoring and data gathering servers
+
 ### Engineering Tools
 - __Python(4+ years)__: General purpose programing language used for server maintnence and
 the creation of API's. Or using the Django or flask libraries to create full featured web applications.
