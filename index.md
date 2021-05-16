@@ -1,4 +1,4 @@
-# Cole Malphrus' CV
+# Cole Malphrus' Resume
 
 ## Data Science Skills
 
