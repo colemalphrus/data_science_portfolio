@@ -12,7 +12,14 @@
     - Predict future outcomes using regression equations and modern ML methods
     - Discover hidden patterns in data using nural networks
 
-### SQL(4+ years)
+### Data Science Tools
+    - Python(4+ years): General purpose programing language used in all 
+    phases of the data science lifecycle.
+    - SQL (4+ years): Standard language for querying relational databases
+    used primarily for data retreival and cleaning.
+    - R(1+ years): Programing language used promarily by scientist ans statisticians
+    for in depth anylasis. Normal use is liited to research feilds.
+<!-- ### SQL(4+ years)
     - Postgresql
     - MySql
     - Oracle DB
@@ -24,7 +31,7 @@
     - Pandas, Np, MatPlotLib, SciPy, Etc.
 
 ### R(1+ years)
-    - R Studio
+    - R Studio -->
 
 ## Engineering Skills
 
