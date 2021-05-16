@@ -1,7 +1,20 @@
-# Cole Malphrus' Resume
+# Resume
 ## Data Science Skills
-- Python
-    - Jupyter
+### A/B Testing
+    - A/B Testing using current data science tactics
+    - Marketing split test anyalasis
+    - UI/UX optimization
+### SQL
+    - Postgresql
+    - MySql
+    - Oracle DB
+    - Sql Server
+### Python
+    - Jupyter Notebooks
+    - Django
+    - Pandas, Np, MatPlotLib, SciPy, Etc.
+### R
+    - R Studio
 
 ## Engineering Skills
 
