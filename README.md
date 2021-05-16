@@ -1,15 +1,16 @@
-# Resume
+# Cole Malphrus' Resume
 
-## Engineering Experience
+## Data Science Skills
+- Python
+- - Jupyter
 
+## Engineering Skills
 
-## Data Science Experience
+## Business Skills
 
+## Work Experience
 
-## Business Experience
-
-
-## Education Experience
+## Education
 
 
 
