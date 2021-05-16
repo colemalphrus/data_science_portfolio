@@ -42,6 +42,22 @@
     - React, Vue, Electron
     - SPA's, general web functionality
 
+### Flutter/ Dart(2+ years)
+    - Android and Ios Apps
+
+### Go (1+ years)
+    - Server side automation
+    - Lightweight Rest API deployment
+    - Webhook integration
+
+### Docker (2+ years)
+    - Containerizing web apps
+    - CI/CD
+    - Inter-container Networking
+
+### Microcontrollers *Hobby* (2+ years)
+    - Arduino, Rasberry Pi, ST32
+    - C, C++, Rust
 
 ### SQL(4+ years)
     - Postgresql
