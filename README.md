@@ -1,5 +1,5 @@
 ---
-title: My custom title
+title: = Cole Malphrus' Portfolio
 ---
 # Cole Malphrus Data Science Portfolio
 
