@@ -1,3 +1,6 @@
+# Cole Malphrus' CV
+
+# Resume
 ## Data Science Skills
 ### A/B Testing
 - A/B Testing using current data science tactics
