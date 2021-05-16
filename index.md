@@ -28,6 +28,29 @@
 
 ## Engineering Skills
 
+### Python(4+ years)
+    - Django
+    - Flask
+    - Server maintnence scripting
+
+### Linux(4+ years)
+    - Ubuntu, Debian, CentOS
+    - Apache, Nginx
+    - Server maintnence scripting in bash
+
+### Javascript(4+ years)
+    - React, Vue, Electron
+    - SPA's, general web functionality
+
+
+### SQL(4+ years)
+    - Postgresql
+    - MySql
+    - Oracle DB
+    - Sql Server
+    - Database backup and recovery
+
+
 ## Business Skills
 
 ## Work Experience
