@@ -13,11 +13,11 @@
     - Discover hidden patterns in data using nural networks
 
 ### Data Science Tools
-    - Python(4+ years): General purpose programing language used in all 
+    - **Python(4+ years)**: General purpose programing language used in all 
     phases of the data science lifecycle.
-    - SQL (4+ years): Standard language for querying relational databases
+    - **SQL (4+ years)**: Standard language for querying relational databases
     used primarily for data retreival and cleaning.
-    - R(1+ years): Programing language used promarily by scientist ans statisticians
+    - **R(1+ years)**: Programing language used promarily by scientist ans statisticians
     for in depth anylasis. Normal use is liited to research feilds.
 <!-- ### SQL(4+ years)
     - Postgresql
