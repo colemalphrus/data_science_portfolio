@@ -1,5 +1,9 @@
 # Resume
 
+## Contact Info
+__Cell__: 843 247 9319
+__Email__: colemalphrus@gmail.com
+
 ## Data Science Skills
 
 ### A/B Testing(3+ years)
