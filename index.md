@@ -135,6 +135,11 @@ This is a project from my masters program. The goal of this project was to trans
 ## [Roslyn Decor](https://www.roslyndecor.com/)
 This is a website created in python using the django framework. This site is a wholesale art decor site. The site was built to withstand 200,000 concurent visitors. My part in this site was the creation of the web app backend, server and database administration.  [Check It Out Here](https://www.roslyndecor.com/)
 
+## [Example Dashboard](https://captain.gotta.fish/login)
+This is an example login and admin Dashboard. This was build using a GOLANG API and a nextjs frontend hosted on netlify. The golang API is hosted on a VPS with a postgresql database. To see more log in using the test account email test@test.com and the password "tester". Please note that none of the internal features are compleate as this is a sample. [Check It Out Here](https://captain.gotta.fish/login)
+
+
+
 ## [Tilabus](https://play.google.com/store/apps/details?id=com.malphruswebservices.tilabus)
 Tilabus is a personal project using flutter. The android app compiles local bus schedules in rural costa rica and provides the schedule to users.  [Check It Out Here](https://play.google.com/store/apps/details?id=com.malphruswebservices.tilabus)
 
