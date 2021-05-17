@@ -128,7 +128,7 @@ __Western Governors University__
 
 
 # Portfolio
-### Links Available on digital version at cv.colemalphrus.com
+### Links available on digital version at cv.colemalphrus.com
 ## [Data Cleaning](./data/cleaning)
 This is a project from my masters program. The goal of this project was to transform hospital data into something that is usable for analytics. This data set includes 10,000 patient records and the data is cleaned and a principle component analysis is performed. [Check It Out Here](./data/cleaning)
 
