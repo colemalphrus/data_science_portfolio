@@ -126,3 +126,24 @@ __Western Governers University__
 
 # Portfolio
 ## [Data Cleaning](./data/cleaning)
+This is a project from my masters program. The goal of this project was to transform hospital data into somthing that is usable for anylitics. This data set includes 10,000 patient records and the data is cleand and a principle component anylasys is preformed. [Check It Out Here](./data/cleaning)
+
+## [Roslyn Decor](https://www.roslyndecor.com/)
+This is a website created in python using the django framework. This site is a wholesale art decor site. The site was built to withstand 200,000 concurent visitors. My part in this site was the creation of the web app backend, server and database administration.  [Check It Out Here](https://www.roslyndecor.com/)
+
+## [Tilabus](https://play.google.com/store/apps/details?id=com.malphruswebservices.tilabus)
+Tilabus is a personal project using flutter. The android app compiles local bus schedules in rural costa rica and provides the schedule to users.  [Check It Out Here](https://play.google.com/store/apps/details?id=com.malphruswebservices.tilabus)
+
+
+## [CSV File Conversion python](https://github.com/colemalphrus/csv2dictionary)
+This is an open source project that i created an maintain. The code is used to convert CSV files into the python dictionary data structure. This project was created to meet the special need of a client who had an abnormal use case.  [Check It Out Here](https://github.com/colemalphrus/csv2dictionary)
+
+## [Time Conversion Python](https://github.com/colemalphrus/timeconMT)
+This is an open source project that i created an maintain. The goal of this python package is to convert time entered by users to a standard time that is more consistant.  [Check It Out Here](https://github.com/colemalphrus/timeconMT)
+
+
+## [Malphrus Web Services Site](www.malphruswebservices.com)
+This is a website created in python using the django framework. [Check It Out Here](www.malphruswebservices.com)
+
+## [Malphrus Family Mission](www.malphrusfamilymission.com)
+This is a website created using Html Css and JS. [Check It Out Here](www.malphrusfamilymission.com)
