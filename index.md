@@ -146,8 +146,8 @@ This is an open source project that i created an maintain. The code is used to c
 This is an open source project that i created an maintain. The goal of this python package is to convert time entered by users to a standard time that is more consistant.  [Check It Out Here](https://github.com/colemalphrus/timeconMT)
 
 
-## [Malphrus Web Services Site](www.malphruswebservices.com)
-This is a website created in python using the django framework. [Check It Out Here](www.malphruswebservices.com)
+## [Malphrus Web Services Site](https://www.malphruswebservices.com)
+This is a website created in python using the django framework. [Check It Out Here](https://www.malphruswebservices.com)
 
-## [Malphrus Family Mission](www.malphrusfamilymission.com)
-This is a website created using Html Css and JS. [Check It Out Here](www.malphrusfamilymission.com)
+## [Malphrus Family Mission](https://www.malphrusfamilymission.com)
+This is a website created using Html Css and JS. [Check It Out Here](https://www.malphrusfamilymission.com)
