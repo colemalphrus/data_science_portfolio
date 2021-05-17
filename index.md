@@ -8,7 +8,7 @@ __Email__: colemalphrus@gmail.com
 
 ### A/B Testing(3+ years)
 - A/B Testing using current data science tactics
-- Marketing split test anyalasis
+- Marketing split test analysis
 - UI/UX optimization
 
 ### Data Exploration and Mining(1+ years)
