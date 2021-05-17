@@ -77,14 +77,51 @@ Have Managed ...
 ## Work Experience
 
 ### Malphrus Web Services(10/18 - Present):
-#### Owner and Technical Lead
+__Owner and Technical Lead__
 - Lead development of business intelegince tools, web and mobile applications.
 - Notable clients included an art decor firm which processed up to 8000 sales per week
 - Managed server deployment, database maitnence and site reliability systems 
 
+### Varsity Tutors(10/20 - Present):
+__Course Instructor and Tutor__
+- Python course instructor
+- Database managment tutor
+- Data Science tutor
+- Javascript tutor
+
+### Southern Blades / OSB (04/12 - 8/17):
+__CEO__
+- Initially a knife manufacturing and distribution firm that expanded to a broad range of outdoor goods.
+- Lead organizations overall direction
+- Managed the manufacturing, marketing and PR of Souther Blades. 
+- Developing of the Southern Blades brand name. 
+- Appropriating regional sales and marketing teams. 
+- Managing business to business relations. 
+- Development of company policies and standards.
+
+### H&M Capital (11/14 - 08/16):
+__Managing General Partner__ 
+- Investment management and anaylsis
+- Capital raising
+- Small business prospecting and developing. 
+- Business strategy development and consulting.
+
 
 ## Education
 
+### Masters of Science in Data Anylytics Candidate:
+__Western Governers University Expected graduation Aug 2020__ 
+- Data Science Lifecycle 
+- Data Cleaning
+- Exploritory Data Analysis
+- Data Visualization
+- Machine Learning/ AI/ Data Mining
+
+### BA in Business Administration:
+__Western Governers University__ 
+- Project Managment
+- Business Strategy
+- Business Managment
 
 
 # Portfolio
