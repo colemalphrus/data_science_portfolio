@@ -113,7 +113,7 @@ __Managing General Partner__
 ## Education
 
 ### Masters of Science in Data Analytics Candidate:
-__Western Governors University Expected Graduation Aug 2020__ 
+__Western Governors University Expected Graduation Aug 2021__ 
 - Data Science Lifecycle 
 - Data Cleaning
 - Exploratory Data Analysis
