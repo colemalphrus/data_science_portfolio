@@ -92,7 +92,7 @@ __Owner and Technical Lead__
 - Linux server maintenance (VPS, AWS, Azure, GCP, Docker)
 
 ### Rolsyn Decor(02/19 - 06/21):
-__Software Engineerong Lead__
+__Software Engineering Lead__
 - Engineered a full-stack solution to the organization's data and web application needs.
 - Created a data pipeline to extract and clean data stored in Excel files.
 - Loaded the data into a Postgresql Data warehouse.
