@@ -83,8 +83,22 @@ Have Managed ...
 ### Malphrus Web Services(10/18 - Present):
 __Owner and Technical Lead__
 - Lead development of business intelligence tools, web and mobile applications
-- Notable clients included an art decor firm which processed up to 8000 sales per week
 - Managed server deployment, database maintenance and site reliability systems 
+- Developing web, mobile, and data analytics applications.
+- Python, Django, React, Flutter, and C#
+- Database management with Postgresql, MySql, SqlServer, ETC.
+- Data Warehouse/ ETL managment (Spark, AirFlow)
+- Custom data analytics applications and dashboards
+- Linux server maintenance (VPS, AWS, Azure, GCP, Docker)
+
+### Rolsyn Decor(02/19 - 06/21):
+__Software Engineerong Lead__
+-Engineered a full-stack solution to the organization's data and web application needs.
+-Created a data pipeline to extract and clean data stored in Excel files.
+-Loaded the data into a Postgresql Data warehouse.
+-Created a Django API and web application for product information.
+-Created an online marketplace for wholesale distribution.
+-Created a dashboard for internal control of data and order processing.
 
 ### Varsity Tutors(10/20 - Present):
 __Course Instructor and Tutor__
@@ -92,6 +106,17 @@ __Course Instructor and Tutor__
 - Database management tutor
 - Data science tutor
 - Javascript tutor
+
+### TilaBus(10/19 - Present):
+__Application Developer__
+- Developed an application to scrape and post bus schedules in and around Liberia Costa Rica
+- Build the bus schedule API and scraping software in Python/ Django
+- Built the android application in Dart using the Flutter Framework
+
+
+### Riverfeild Plantation(04/17 - 10/19):
+__Web Application Developer__
+- Created and managed company web applications using Python, Django, and Vue Js.
 
 ### Southern Blades / OSB (04/12 - 8/17):
 __CEO__
