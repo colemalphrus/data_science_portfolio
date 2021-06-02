@@ -93,12 +93,12 @@ __Owner and Technical Lead__
 
 ### Rolsyn Decor(02/19 - 06/21):
 __Software Engineerong Lead__
--Engineered a full-stack solution to the organization's data and web application needs.
--Created a data pipeline to extract and clean data stored in Excel files.
--Loaded the data into a Postgresql Data warehouse.
--Created a Django API and web application for product information.
--Created an online marketplace for wholesale distribution.
--Created a dashboard for internal control of data and order processing.
+- Engineered a full-stack solution to the organization's data and web application needs.
+- Created a data pipeline to extract and clean data stored in Excel files.
+- Loaded the data into a Postgresql Data warehouse.
+- Created a Django API and web application for product information.
+- Created an online marketplace for wholesale distribution.
+- Created a dashboard for internal control of data and order processing.
 
 ### Varsity Tutors(10/20 - Present):
 __Course Instructor and Tutor__
