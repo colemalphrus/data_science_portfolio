@@ -4,6 +4,39 @@
 __Cell__: 843 247 9319
 __Email__: colemalphrus@gmail.com
 
+## Engineering Skills
+
+### Web App/ API Development(4+ years)
+Have Created ...
+- Enterprize level E-commerce platforms
+- Inventory and supply chain management systems 
+- Internal tools for cross department collaberation and communication
+- Business intelligence dashboards
+- Automation of client communication and management
+
+### Server Management and Maintenance(4+ years)
+Have Managed ...
+- Client and company data in a secure but accessible way
+- Web servers
+- Background business monitoring and data gathering servers
+
+### Mobile App Development(2+ years)
+Have Created ...
+- Company presence on IOS and Android
+- Field tools for staff and distributed teams
+- Client facing information and communication applications
+
+### Engineering Tools
+- __Python(4+ years)__: General purpose programming language used for server maintenance and
+the creation of API's. Or using the Django or flask libraries to create full featured web applications.
+- __Linux(4+ years)__: Server operating system. Ubuntu, Debian and CentOS. Bash Scripting. Apache and Nginx web server administration. Bash scripting.
+- __SQL (4+ years)__: Standard language for querying relational databases
+used primarily for data retrieval. Postgresql, Mysql, Sql Server, and Oracle DB.
+- __Javascript(4+ years)__: React, VueJs, and NextJS. General web functionality as well as single page application development.
+- __Flutter/ Dart(2+ years)__: Android and IOS applications.
+- __Docker(2+ years)__: Containerizing web applications and microservices.
+- __Go(1+ years)__: Server side automation. Lightweight API development. Webhook integration.
+
 ## Data Science Skills
 
 ### A/B Testing(3+ years)
@@ -23,39 +56,6 @@ phases of the data science lifecycle.
 used primarily for data retrieval and cleaning.
 - __R(1+ years)__: Programming language used primarily by scientists and statisticians
 for in depth analysis. Normal use is limited to research fields.
-
-## Engineering Skills
-
-### Web App Development(4+ years)
-Have Created ...
-- Enterprize level E-commerce platforms
-- Inventory and supply chain management systems 
-- Internal tools for cross department collaberation and communication
-- Business intelligence dashboards
-- Automation of client communication and management
-
-### Mobile App Development(2+ years)
-Have Created ...
-- Company presence on IOS and Android
-- Field tools for staff and distributed teams
-- Client facing information and communication applications
-
-### Server Management and Maintenance(4+ years)
-Have Managed ...
-- Client and company data in a secure but accessible way
-- Web servers
-- Background business monitoring and data gathering servers
-
-### Engineering Tools
-- __Python(4+ years)__: General purpose programming language used for server maintenance and
-the creation of API's. Or using the Django or flask libraries to create full featured web applications.
-- __Linux(4+ years)__: Server operating system. Ubuntu, Debian and CentOS. Bash Scripting. Apache and Nginx web server administration. Bash scripting.
-- __SQL (4+ years)__: Standard language for querying relational databases
-used primarily for data retrieval. Postgresql, Mysql, Sql Server, and Oracle DB.
-- __Javascript(4+ years)__: React, VueJs, and NextJS. General web functionality as well as single page application development.
-- __Flutter/ Dart(2+ years)__: Android and IOS applications.
-- __Docker(2+ years)__: Containerizing web applications and microservices.
-- __Go(1+ years)__: Server side automation. Lightweight API development. Webhook integration.
 
 ## Business Skills
 
