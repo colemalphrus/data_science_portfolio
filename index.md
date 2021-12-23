@@ -6,7 +6,7 @@ __Email__: colemalphrus@gmail.com
 
 ## Engineering Skills
 
-### Web App/ API Development(4+ years)
+### Web App/ API Development(5+ years)
 Have Created ...
 - Enterprize level E-commerce platforms
 - Inventory and supply chain management systems 
@@ -14,7 +14,7 @@ Have Created ...
 - Business intelligence dashboards
 - Automation of client communication and management
 
-### Server Management and Maintenance(4+ years)
+### Server Management and Maintenance(5+ years)
 Have Managed ...
 - Client and company data in a secure but accessible way
 - Web servers
@@ -27,19 +27,19 @@ Have Created ...
 - Client facing information and communication applications
 
 ### Engineering Tools
-- __Python(4+ years)__: General purpose programming language used for server maintenance and
+- __Python(5+ years)__: General purpose programming language used for server maintenance and
 the creation of API's. Or using the Django or flask libraries to create full featured web applications.
-- __Linux(4+ years)__: Server operating system. Ubuntu, Debian and CentOS. Bash Scripting. Apache and Nginx web server administration. Bash scripting.
-- __SQL (4+ years)__: Standard language for querying relational databases
+- __Linux(5+ years)__: Server operating system. Ubuntu, Debian and CentOS. Bash Scripting. Apache and Nginx web server administration. Bash scripting.
+- __SQL (5+ years)__: Standard language for querying relational databases
 used primarily for data retrieval. Postgresql, Mysql, Sql Server, and Oracle DB.
-- __Javascript(4+ years)__: React, VueJs, and NextJS. General web functionality as well as single page application development.
+- __Javascript(5+ years)__: React, VueJs, and NextJS. General web functionality as well as single page application development.
 - __Flutter/ Dart(2+ years)__: Android and IOS applications.
-- __Docker(2+ years)__: Containerizing web applications and microservices.
-- __Go(1+ years)__: Server side automation. Lightweight API development. Webhook integration.
+- __Docker(3+ years)__: Containerizing web applications and microservices.
+- __Go(2+ years)__: Server side automation. Lightweight API development. Webhook integration.
 
 ## Data Science Skills
 
-### A/B Testing(3+ years)
+### A/B Testing(4+ years)
 - A/B Testing using current data science tactics
 - Marketing split test analysis
 - UI/UX optimization
@@ -50,9 +50,9 @@ used primarily for data retrieval. Postgresql, Mysql, Sql Server, and Oracle DB.
 - Discover hidden patterns in data using nural networks
 
 ### Data Science Tools
-- __Python(4+ years)__: General purpose programming language used in all 
+- __Python(5+ years)__: General purpose programming language used in all 
 phases of the data science lifecycle.
-- __SQL (4+ years)__: Standard language for querying relational databases
+- __SQL (5+ years)__: Standard language for querying relational databases
 used primarily for data retrieval and cleaning.
 - __R(1+ years)__: Programming language used primarily by scientists and statisticians
 for in depth analysis. Normal use is limited to research fields.
@@ -79,6 +79,25 @@ Have Managed ...
 - Inventory management
 
 ## Work Experience
+
+
+### Varsity Tutors(12/21 - Present):
+__Team Lead / Senior Software Engineer (Back-End)__
+- Leading the MEX Core Team
+- Focused on online tooling for internal marketing data flow
+- Automating PPC bidding and SEO keyword selection
+- Heavy focus on internal data handaling and analytics
+- Building internal tooling for marketers. Dashboards/ analytics and content
+- AWS hosted on Lambdas, EC2 and K8s
+- Writing solutions in Python Go and JS
+
+### Varsity Tutors(06/21 - 12/21):
+__Senior Software Engineer (Back-End)__
+- Working on the marketing experience team
+- Heavy focus on landing page split testing/ rapid itterations.
+- Building internal tooling for marketers. Dashboards/ analytics and content
+- AWS hosted on EC2 and K8s
+- Writing solutions in JS Python Go and Ruby
 
 ### Malphrus Web Services(10/18 - Present):
 __Owner and Technical Lead__
